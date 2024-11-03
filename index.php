@@ -68,7 +68,7 @@
     <main class="main">
 
         <!-- Hero Section -->
-        <section id="Stephen" class="hero section dark-background">
+        <section id="Stephen" class="hero section dark-background hello">
 
             <div class="container">
                 <div class="row gy-4">
